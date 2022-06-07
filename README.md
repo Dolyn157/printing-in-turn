@@ -6,4 +6,4 @@
 参考资料： https://www.bilibili.com/video/BV1Ju41167BL?p=1
 
 ## 3 Coroutines
-仿照 2 Coroutines 的设计思想， 我举一反三地设计了一个三个协程交替输出字符的程序。
+仿照 2 Coroutines 的设计思路， 我举一反三地设计了一个三个协程交替输出字符的程序。
